@@ -5,6 +5,7 @@ create a new git repository . Note: the gitHub repository name should(optional) 
 
 in the terminal change directory to the project folder and enter the following line:
 git remote add origin https://github.com/{GitAccountName}/{RepositoryName}
+
 commit and push all files to github:
 git add -A
 git commite -m "Initial commit"
